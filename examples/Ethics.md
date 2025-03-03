@@ -1,0 +1,115 @@
+- Relationships
+    - Family
+        - "The family is important, and it is necessary for the survival of humanity." #Christianity #Pope
+        - "The family ... is the foundation." #Christianity #Pope
+        - "Honour your father and mother" #Christianity #Bible
+        - "bring [your children] up in the training and instruction of the Lord." #Christianity #Bible
+    - Gender Roles
+        - "nor is there male and female," #Christianity #Bible
+        - "the head of every man is Christ, and the head of the woman is man." #Christianity #Bible
+        - "For [the husband], ... be willing workers, order all things sweetly and be gentle voiced." #Buddhism #Buddha
+    - Cohabitation
+        - no quotes
+    - Marriage
+        - "made them male and female" #Christianity #Bible #Genesis
+        - "So they are no longer two, but one flesh." #Christianity #Bible
+        - "[the married couple] live out before the children the strength of a shared life" #Christianity #[[Church of England]] 
+        - "It is not good that the man should be alone." #Christianity #Genesis #Bible
+        - "To have and to hold" #Christianity #Vows
+        - "According to God's holy law" #Christianity #Vows
+        - "Towards my wife I undertake to love and respect her,"  #Buddhism #Buddha
+        - "Towards my husband I undertake to perform my household duties efficiently," #Buddhism #Buddha
+    - Adultery
+        - "You shall not commit adultery." #Christianity #Bible
+        - "He that is without sin among you, let him cast the first stone at her." #Christianity #Bible #Jesus
+    - Divorce
+        - "Therefore what God has joined together, let no one separate." #Christianity #Bible
+        - "anyone who divorces his wife ... and marries another woman commits adultery." #Christianity #Bible #Jesus
+    - Sex
+        - no quotes
+    - Contraception
+        - no quotes
+    - Homosexuality
+        - "If a man has sexual relations with a man as one does with a woman, both of them have done what is detestable. They are to be put to death;" #Christianity #Bible
+        - "law is made ... for those practising homosexuality," #Christianity #Bible
+        - "A marriage is not the same as the union of two people of the same sex." #Christianity #Pope
+        - "conduct sexual relationships ethically, with awareness and kindness." #Buddhism #Triratna
+    - Gender Discrimination
+        - "I do not permit a woman to ... assume authority over a man; she must be quiet." #Bible #Christianity
+        - "the Church has no authority whatsoever to confer priestly ordination on women" #Christianity #Pope
+            - "A bhikkhuni ... must pay respect to a bhikkhu" #Buddhism #Garudhammas
+- Life and Death
+    - Origin of the Universe
+        - "And God said: "Let there be light", and there was light," #Christianity #Bible #Genesis
+        - "Then God said, "Let us make mankind in our image,"" #Christianity #Bible #Genesis
+        - "Both these possibilities are negated." #Buddhism #[[Dalai Lama]] 
+    - Environmental Issues
+        - "You made them rulers over the works of your hands; you put everything under their feet." #Christianity #Bible #Psalm
+        - "Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground" #Christianity #Bible #Genesis
+        - "Harming nature is harming ourselves," #Buddhism #[[Thich Nhat Hanh]] 
+        - "strong emphasis on personal responsibility for our actions and the importance of social co-operation,"  #Humanist #[[British Humanist Association]] 
+    - Origin of Life
+        - "you knit me together in my mother's womb" #Christianity #Bible #Psalm
+        - "When there is this, that comes to be; with the arising of this, that arises." #Buddhism #Buddha
+        - "the idea of these mutations being random events is deeply unsatisfying" #Buddhism #[[Dalai Lama]] 
+        - "the traditional view of the sanctity of human life will collapse under the pressure of scientific developments." #Humanist #[[Peter Singer]] 
+    - Sanctity of Life
+        - "he himself gives everyone life and breath." #Christianity #Bible
+        - "it was very good" #Christianity #Bible #Genesis
+        - "Before I formed you in the womb I knew you," #Christianity #Bible #Genesis
+        - "What can a man give in exchange for his soul?" #Christianity #Bible
+        - "all hold their lives dear ... one should not beat or kill others." #Buddhism #Dhammapada
+    - Abortion
+        - "You shall not kill the embryo by abortion." #Christianity #[[Church of England]]  #Didache
+        - "there can be ‒ strictly limited ‒ conditions under which it may be morally preferable" #Christianity #[[Church of England]] 
+        - "abortion is an act of killing and is negative" #Buddhism #[[Dalai Lama]] 
+        - "abortion should be approved or disapproved according to each circumstance." #Buddhism #[[Dalai Lama]] 
+    - Euthanasia
+        - "there are exceptional cases, so it's best to be judged on a case by case basis." #Buddhism #[[Dalai Lama]] 
+        - "I think it's better to avoid it." #Buddhism #[[Dalai Lama]] 
+    - Life After Death
+        - "The one ... who lives by believing in me will never die." #Christianity #Bible #Jesus
+        - "The body that is sown perishable / in dishonour, it is raised imperishable / in glory" #Christianity #Bible
+        - "it is sown a natural body, it is raised a spiritual body." #Christianity #Bible
+    - Afterlife
+        - "I am the resurrection and the life." #Christianity #Bible #Jesus
+- Good and Evil
+    - Right and Wrong
+        - "Right is right, even if everyone is against it, and wrong is wrong, even if everyone is for it." #Christianity #Quakerism
+        - "Intention, I tell you, is karma." #Buddhism #Buddha
+        - "dark ... bright ... dark-and-bright ... neither-dark-nor-bright" #Buddhism #Buddha
+    - Punishment
+        - "But let justice roll on like a river, righteousness like a never-falling stream." #Christianity #Bible
+    - Chaplains
+        - "for prisoners to salvage something positive from their predicament,"  #Buddhism #Angulimala
+    - Death Penalty
+        - "Father forgive them, for they know not what they do." #Chriti #Bible #Jesus
+        - "Do not repay anyone evil for evil." #Christianity #Bible
+        - "Whoever sheds the blood of man, by man is blood be shed." #Christianity #Bible
+        - "an attack on the inviolability and dignity of the person," #Christianity #[[Catholic Church]] 
+        - "the executed person is deprived of the opportunity to change," #Buddhism #[[Dalai Lama]] 
+    - Forgiveness
+        - "Forgive, and you will be forgiven." #Christianity #Bible
+        - "Blessed are the merciful, for they will be shown mercy." #Christianity #Bible #Jesus
+        - "not seven times, but seventy-seven times." #Christianity #Bible #Jesus
+        - "But if I forgive, my mind becomes calm." #Buddhism #[[Dalai Lama]] 
+    - Evil
+        - "If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox." #Buddhism #Dhammapada
+        - "kill time ... killing Buddhism." #Buddhism #Gasan
+- Human Rights
+    - Social Justice
+        - "an underlying principle for peaceful and prosperous coexistence" #Humanist #[[United Nations]] 
+    - Dignity of Human Life
+        - "he should take pity on all others who are sick." #Buddhism #Mahayana
+    - Promoting Human Rights
+        - "one should establish guard, ward and protection according to Dharma" #Buddhism
+        - "Let no crime prevail in your kingdom, and to those who are in need, give property." #Buddhism
+    - Religious Expression
+        - "Go into all the world and preach the gospel to all creation." #Christianity #Bible #Jesus
+    - Prejudice and Discrimination
+        - "Do not deprive the foreigner or the fatherless of justice," #Christianity #Bible
+        - "There is neither Jew nor Gentile," #Christianity #Bible
+    - Wealth and Poverty
+        - "now he is comforted here and you are in agony." #Christianity #Bible
+        - "the happiness of owning things / enjoying them / being free from debt / honesty" #Buddhism #Buddha
+        - "It depends on the way the wealth is obtained and what is done with it," #Buddhism

@@ -1,0 +1,45 @@
+- Context
+- Gender
+- 
+- Class
+- 
+- Quotes
+- # Responsibility
+- If we were all responsible for everything that happened to everybody we'd had anything to do with, it would be very awkward, wouldn't it? #[[Mr Birling]] 
+- You lot may be letting yourselves out nicely, but I can't. Nor can mother. #Eric
+- I should think not. Eric, I'm absolutely ashamed of you. #[[Mrs Birling]]  #Eric
+- It's better to ask for the earth than to take it. #Inspector
+- We are members of one body. We are responsible for each other. #Inspector
+- They will be taught it in fire and blood and anguish. #Inspector
+- You're quite wrong to expect me to regret what I did #[[Mrs Birling]] 
+- If the girl's death is due to anybody, then its due to him #[[Mrs Birling]]  #[[Mr Birling]] 
+-  __he creates at once an impression of massiveness, solidity and purposefulness.__   #Inspector
+- But each of you helped to kill her. Remember that. Never forget it. ( __He looks from one to the other of them carefully__ ) But then I don’t think  you ever will. Remember what you did. #Inspector
+- # Age
+- You're squiffy. #Sheila #Eric
+- We really must stop these silly pretences. #Sheila #[[Mrs Birling]] 
+- You're not the kind of father a chap could go to when he's in trouble. #Eric #[[Mr Birling]] 
+- I suppose we're all nice people now. #Sheila
+- You’re beginning to pretend now that nothing’s really happened at all. #Eric
+- Why, you hysterical young fool ‒ get back ‒ or I'll ‒ #[[Mr Birling]]  #Eric
+- This disgusting affair‒ #[[Mrs Birling]] 
+- I know I did I'm ashamed of it. But now you're beginning all over again to pretend that nothing much has happened‒ #Sheila
+- I did nothing I'm ashamed of #[[Mrs Birling]] 
+- ( __agitated__ ) I don't believe it. I won't believe it... #[[Mrs Birling]] 
+- I don't come into this suicide business #Gerald
+- # Gender
+- She was very pretty ‒ soft brown hair and big dark eyes. #Gerald
+- I hate those hard-eyed dough-faced women. #Gerald
+- As if a girl of that sort would ever refuse money! #[[Mrs Birling]] 
+- Not only something to make 'em look prettier ‒ but ‒ well, a sort of sign or token of their self-respect. #[[Mr Birling]] 
+- She looked young and fresh and charming #Gerald
+- What was she like? Quite young? … Pretty? #Sheila
+- # Class
+- If you don't come down hard on these people, they'll soon be asking for the earth! #[[Mr Birling]] 
+- And every luxury ‒ and unsinkable, absolutely unsinkable. #[[Mr Birling]] 
+- Look Inspector, I'd give thousands... #[[Mr Birling]] 
+- He's a notorious womaniser as well as being one of the worst sorts #Gerald #[[Mr Birling]] 
+- Public men, Mr Birling, have responsibilities as well as privileges #Inspector
+- a man has to mind his own business and look after himself and his own #[[Mr Birling]] 
+- And I speak as a hard-headed, practical man of business #[[Mr Birling]] 
+- 

@@ -1,0 +1,43 @@
+- Beliefs + Teachings
+    - Nature of God
+        - "And the Egyptians will know that I am the Lord when I stretch out my hand against Egypt and bring the Israelites out of it.” #Exodus 7:4
+        - "Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land. The waters were divided," #Exodus 14:21
+        - "But you, Lord, are a compassionate and gracious God, slow to anger, abounding in love and faithfulness." #Psalm 86:15
+        - "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." #John 3:16
+        - "nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord." #Romans 8:39
+        - "But now stretch out your hand and strike everything he has, and he will surely curse you to your face." #Job 1:11
+        - "You asked, "Who is this that obscures my plans without knowledge?’ Surely I spoke of things I did not understand, things too wonderful for me to know." #Job 42:3
+        - "I and the Father are one." #John 10:30
+        - "Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me." #John 14:6
+        - "Believe me when I say that I am in the Father and the Father is in me;" #John 14:11
+        - "Is he neither able nor willing? Then why call him God?" #Epicurus
+    - Creation
+        - "And God said, “Let there be light,” and there was light." #Genisis 1:3
+        - "In the beginning was the Word, and the Word was with God, and the Word was God." #John 1:1
+        - "Through him all things were made; without him nothing was made that has been made." #John 1:3
+        - "In him was life, and that life was the light of all mankind." #John 1:4
+    - Jesus 
+        - "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth." #John 1:14
+        - "You will conceive and give birth to a son, and you are to call him Jesus." #Luke 1:31
+        - "About three in the afternoon Jesus cried out in a loud voice, "My God, my God, why have you forsaken me?"" #Matthew 27:46
+        - "The goat will carry on itself all their sins to a remote place; and the man shall release it in the wilderness." #Leviticus 16:22
+        - "This is my blood of the covenant, which is poured out for many for the forgiveness of sins." #Matthew 26:28
+        - "In their fright the women bowed down with their faces to the ground, but the men said to them, "Why do you look for the living among the dead? He is not here; he has risen!"" #Luke 24:5-6
+        - "And if Christ has not been raised, our preaching is useless and so is your faith." #1 Corinthians 15:14
+    - Salvation
+        - "All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them." #Acts 2:4
+    - The Afterlife
+        - "whoever lives by believing in me will never die." #John 11:26
+        - "My Father’s house has many rooms;" #John 14:2
+        - "Then they will go away to eternal punishment, but the righteous to eternal life." #Matthew 25:46
+        - "The body that is sown perishable / in dishonour / in weakness / a natural body, it is raised imperishable / in glory / in power / a spiritual body." #1 Corinthians 15:42-44
+        - "Where, O death, is your victory? Where, O death, is your sting?" #1 Corinthians 15:55
+- Practices
+    - Forms of Worship
+        - "For where two or three gather in my name, there am I with them." #Matt 18:20
+    - Sacraments
+        - "Jesus answered, "Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit."" #John 3:5
+    - Pilgrimage and Celebrations
+    - Christianity in Britain and the Church in the Local Community
+    - The Worldwide Church
+- 

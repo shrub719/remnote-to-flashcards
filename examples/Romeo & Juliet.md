@@ -1,0 +1,49 @@
+- Context
+- Love
+- Conflict
+- Family
+- Quotes
+- # Love
+- A pair of star-crossed lovers  
+- O happy dagger! #Juliet
+- Mercutio's soul / Is but a little way above our heads, / Staying for thine to keep him company: / Either thou or I, or both, must go with him. #Romeo #Mercutio
+- My lips, two blushing pilgrims, ready stand / To smooth that rough touch with a tender kiss. #Romeo #Juliet
+- Sin from thy lips? O trespass sweetly urged! #Romeo #Juliet
+- You kiss by th’ book. #Juliet #Romeo
+- If love be rough with you, be rough with love. #Mercutio
+- By giving liberty unto thine eyes. Examine other beauties. #Benvolio
+- My will to her consent is but a part. #Capulet
+- O sweet Juliet, thy beauty hath made me effeminate. #Romeo
+- Dreamers often lie #Mercutio
+- Art thou a man? Thy tears are womanish #[[Friar Lawrence]] 
+- Young men’s love then lies not truly in their hearts but in their eyes. #[[Friar Lawrence]] 
+- My lord, I would that Thursday were tomorrow. #Paris
+- Thy face is mine, and thou hast slander'd it. #Paris #Juliet
+- # Conflict
+- Where civil blood makes civil hands unclean.
+- Patience perforce with wilful choler meeting / Makes my flesh tremble in their different greeting. #Tybalt
+- Boy, this shall not excuse the injuries that thou hast done me; therefore turn and draw. #Tybalt
+- A plague o' both your houses!  #Mercutio
+- disobedient wretch! #Capulet #Juliet
+- You are to blame, my lord, to rate her so. #Nurse #Juliet #Capulet
+- O calm, dishonourable, vile submission! #Mercutio
+- For now, these hot days, is the mad blood stirring. #Benvolio
+- Part, fools! Put up your swords; you know not what you do. #Benvolio
+- Give me my long sword, ho! #Capulet
+- Then I defy you, stars! #Romeo
+- these hot days is the mad blood stirring #Benvolio
+- ask for me tomorrow, and you shall find me a grave man. #Mercutio
+- they stumble that run fast. #[[Friar Lawrence]] 
+- These violent delights have violent ends. #[[Friar Lawrence]] 
+- If he be married, my grave is like to be my wedding bed #Juliet
+- # Family
+- Two households, both alike in dignity,
+- My life is my foe’s debt. #Romeo
+- Prodigious birth of love it is to me, / That I must love a loathèd enemy. #Juliet
+- O brother Montague, give me thy hand. #Capulet #Montague
+- Deny thy father and refuse thy name; #Juliet
+- O brawling love! O loving hate! #Romeo
+- And, to say truth, Verona brags of him / To be a virtuous and well-governed youth. #Capulet #Romeo
+- Peace? I hate the word, As I hate hell, all Montagues, and thee. #Tybalt
+- This intrusion, now seeming sweet, will convert to bitterest gall #Tybalt
+- My fingers itch #Capulet

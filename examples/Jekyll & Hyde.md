@@ -1,0 +1,39 @@
+- Quotes
+- # Science
+- I beg you will spare me any allusion to one whom I regard as dead. #Lanyon #Jekyll
+- there lay the body of a man sorely contorted and still twitching. #Jekyll
+- That masked thing like a monkey jumped from among the chemicals #Hyde
+- younger, lighter and happier #Jekyll #Hyde
+- # Duality
+- # inc. Jekyll's reputation + friendship and religion
+- Evil finally destroyed the balance of my soul #Jekyll
+- The smile struck out of his face and succeeded by an expression of such object terror and despair #Jekyll
+- the respect of the wise and good #Jekyll
+- ordinary secret sinner #Jekyll
+- every mark of capacity and kindness - you could see by his looks that he cherished for Mr Utterson. #Jekyll #Utterson
+- haunting sense of unexpressed deformity with which the fugitive impressed his beholders. #Hyde
+- man is not truly one, but truly two, #Jekyll
+- He began to go wrong, wrong in the mind, #Lanyon #Jekyll
+- pale to the lips ... blackness about his eyes #Jekyll
+- like Satan #Hyde
+- ape-like fury #Hyde
+- These polar twins should be continuously struggling. #Jekyll
+- I lay down the pen and proceed to seal up my confession, I bring the life of that unhappy Henry Jekyll to an end. #Jekyll
+- Mr Hyde shrank back with a hissing intake of breath.  #Hyde
+- # Supernatural
+- you who have so long been bound to the most narrow and material  views, you who have denied the virtue of transcendental medicine, you  who have derided your superiors - behold! #Hyde #Lanyon
+- the cords of his face moved with a semblance of life, but life was quite gone. #Jekyll #Hyde
+- if you can sit and talk with me of other things, for God's sake stay and  do so; but if you cannot keep clear of this accursed topic, then, in  God’s name, go, for I cannot bear it. #Lanyon #Utterson
+- like some damned Juggernaut #Hyde
+- If I am the chief of sinners, I am the chief of sufferers also. #Jekyll
+- # Other
+- If he be Mr Hyde, I shall be Mr Seek #Utterson
+- rugged countenance, that was never lighted by a smile; cold, scanty and embarrassed #Utterson
+- God forgive us! God forgive us! #Utterson
+- my soul sickened at it...I must die  #Lanyon
+- O God!” I screamed, and “O God!” again and again; #Lanyon
+- disconsolate prisoner #Jekyll
+- I am ashamed of my long tongue #Enfield
+- The hard law of life, which lies in the root of religion
+- I let my brother go to the devil in his own way. #Utterson
+- 
